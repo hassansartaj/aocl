@@ -9,4 +9,4 @@ AspectOCL EMSE paper experiment tasks. The repository contains tasks for the two
  * [Sudoku](./Sudoku)
    * [OCL](./Sudoku/OCL)
    * [AspectOCL](./Sudoku/AspectOCL)
- * [Survey Questionaire](./Survey Questionaire)
+ * [Survey Questionaire](./Survey)
