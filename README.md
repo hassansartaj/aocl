@@ -5,16 +5,8 @@ AspectOCL EMSE paper experiment tasks. The repository contains tasks for the two
 .
  * [EURental](./EURental)
    * [OCL](./EURental/OCL)
-      * [Questions](/EURental/OCL/Questions)
-      * [Constraints](/EURental/OCL/Constraints)
    * [AspectOCL](./EURental/AspectOCL)
-      * [Questions](/EURental/AspectOCL/Questions)
-      * [Constraints](/EURental/AspectOCL/Constraints)
  * [Sudoku](./Sudoku)
    * [OCL](./Sudoku/OCL)
-      * [Questions](/EURental/OCL/Questions)
-      * [Constraints](/EURental/OCL/Constraints)
    * [AspectOCL](./Sudoku/AspectOCL)
-      * [Questions](/EURental/AspectOCL/Questions)
-      * [Constraints](/EURental/AspectOCL/Constraints)
- * Post-experiment Questionaire.docx
+ * [Survey Questionaire]
